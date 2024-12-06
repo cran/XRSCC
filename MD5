@@ -1,4 +1,4 @@
-4c2316d7efa6a638c4ed0928b1b3208f *DESCRIPTION
+ebd7347a4e10eaae03bc0c91fa8fa273 *DESCRIPTION
 74b0106856e664355d6becf9f8766447 *NAMESPACE
 f4d31a1b9ebe791e804f7135dd8f448a *R/Beta.X.R
 2305b86166120f77b008c8a63e5b206e *R/C_it.R
@@ -24,7 +24,7 @@ e0890592b9a67851be4415e17b505dfc *data/qqsugar.rda
 aae3dee03d7f438e19d89e0ac2164488 *data/udata2.rda
 446fd0b2eb4cc2a9a119b0a222557ef7 *data/vol_sample.rda
 a90a1380417dea892219140998370c23 *man/Beta.X.Rd
-d6d3db537fcd5e428396ad40cf4208a4 *man/C_it.Rd
+59d9ae5a176ebaf2eba927ce62b8c59e *man/C_it.Rd
 1021be0780e67c28c0c8b44572de9f1a *man/Cp_X.Rd
 5037c5de3b81f2ea1d4e0df7d47b588c *man/NP_it.Rd
 56be4e383c9361f338ad4ca24698df03 *man/P_it.Rd
@@ -33,7 +33,7 @@ a8e97c3e0ddf90719b83f56ceae81046 *man/U_it.Rd
 690ea159f3e0751263722161aae3457f *man/XRSCC-package.Rd
 f08b1da21894c2e4694a2eae9a0a986e *man/X_it.Rd
 9e615e451f4a5f19cc031a36b9b82c19 *man/bottles.Rd
-b50e9c9c009309891c3b2a21e97266ce *man/c_gr.Rd
+7b78f04defd7cc481dd41c0036ac9d63 *man/c_gr.Rd
 3bfd68319310f4c0cb5b57888b91021f *man/clothes.Rd
 ba3617b8dcdb30c794170e51ad456dfa *man/clothes2.Rd
 b9d348be55005f1292c4f6eb746b77bc *man/dato2.Rd

@@ -38,5 +38,4 @@ r1<-c_gr(clothes)
 r2<-C_it(r1)
 r3<-C_it(r2)
 }
-\keyword{ ~kwd1 }
-\keyword{ ~kwd2 }
+

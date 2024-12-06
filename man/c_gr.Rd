@@ -37,5 +37,3 @@ Erick Marroquin
 data(clothes)
 c_gr(clothes)
 }
-\keyword{ ~kwd1 }
-\keyword{ ~kwd2 }
